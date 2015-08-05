@@ -1,0 +1,25 @@
+{
+  "author": "Sebastian Wiedenroth <wiedi@frubar.net>",
+  "bin": {
+    "alpd": "./server.js"
+  },
+  "dependencies": {
+    "async": "0.2.x",
+    "carrier": "0.1.x",
+    "underscore": "1.8.x"
+  },
+  "description": "ALP implementation for Sun Ray thin clients",
+  "keywords": [
+    "ALP",
+    "sun ray"
+  ],
+  "licenses": [
+    {
+      "name": "BSD",
+      "url": "http://opensource.org/licenses/BSD-3-Clause"
+    }
+  ],
+  "main": "server.js",
+  "name": "radiance",
+  "version": "0.0.1"
+}
